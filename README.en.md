@@ -127,7 +127,7 @@ There are **72 `SKILL.md` paths: 68 distinct skill files plus 4 symlink aliases*
 | [tessie](opt/hatch/skills/tessie/SKILL.md) | Inspect Tesla state and invoke explicit vehicle command endpoints. | [Manifest](opt/hatch/skills/tessie/manifest.yaml) |
 | [tailscale](opt/hatch/skills/tailscale/SKILL.md) | Join Tailnet/Headscale, inspect connectivity, and access private machines through a TCP proxy. | — |
 
-### Muse product operations（4）
+### Platform-specific operations（4）
 
 | Skill | Documented purpose | Supporting files |
 |---|---|---|

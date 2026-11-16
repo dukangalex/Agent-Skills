@@ -127,7 +127,7 @@
 | [tessie](opt/hatch/skills/tessie/SKILL.md) | 读取 Tesla 状态并调用明确的车辆操作接口。 | [权限清单](opt/hatch/skills/tessie/manifest.yaml) |
 | [tailscale](opt/hatch/skills/tailscale/SKILL.md) | 加入 Tailnet/Headscale、检查连接并经 TCP 代理访问私有机器。 | — |
 
-### Muse 产品操作（4）
+### 平台特定操作（4）
 
 | 技能 | 文档描述的用途 | 配套资料 |
 |---|---|---|
