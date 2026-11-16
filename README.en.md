@@ -1,4 +1,4 @@
-# MuseAI-Skills
+# Agent-Skills
 
 General AI Agent skills reference library and runtime snapshot.
 
@@ -158,8 +158,8 @@ There are **72 `SKILL.md` paths: 68 distinct skill files plus 4 symlink aliases*
 To inspect all skills without downloading large binaries:
 
 ```bash
-GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 ```
 
 Open `opt/hatch/skills/` or click the directory links above. No need to execute the bundled programs.
@@ -201,8 +201,8 @@ Full download (including LFS binaries):
 
 ```bash
 git lfs install
-git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 git lfs pull
 git lfs fsck
 ```
@@ -210,8 +210,8 @@ git lfs fsck
 Skills-only (skip large binaries):
 
 ```bash
-GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 ```
 
 Run `git lfs pull` later if binaries are needed.

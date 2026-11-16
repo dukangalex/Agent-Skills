@@ -1,4 +1,4 @@
-# MuseAI-Skills
+# Agent-Skills
 
 通用 AI Agent 技能参考库与运行环境快照。
 
@@ -158,8 +158,8 @@
 只想研究这些技能，可以跳过全部 LFS 二进制下载：
 
 ```bash
-GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 ```
 
 打开 `opt/hatch/skills/` 或点击上方目录即可，无需执行随包程序。
@@ -201,8 +201,8 @@ cd MuseAI-Skills
 
 ```bash
 git lfs install
-git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 git lfs pull
 git lfs fsck
 ```
@@ -210,8 +210,8 @@ git lfs fsck
 仅阅读技能文档：
 
 ```bash
-GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/MuseAI-Skills.git
-cd MuseAI-Skills
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dukangalex/Agent-Skills.git
+cd Agent-Skills
 ```
 
 需要二进制时再运行 `git lfs pull`。
